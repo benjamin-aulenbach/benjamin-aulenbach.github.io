@@ -11,3 +11,10 @@ I am also very interested in cryptocurrencies, which is what I plan on focusing 
 Some non-academic interests include chess and science fiction, both books and movies. I love getting absorbed into a different world and suspending reality for a time. One of my favorite series is the Kingkiller Chronicle, by Patrick Rothfuss. I'm anxiously awaiting Doors of Stone!!
 
 I also have interests in photography and videography. I created a website (aulenbachaesthetics.com) that will host some of my favorite shots and films, but it is still in the early stages. I hope to organize it and upload more content in the near future. But in the meantime, below I've included a couple pictures of the best two pups in the history of puppers: Blizzard and Frosty.
+
+
+###Blizzard
+![IMG_1628](https://user-images.githubusercontent.com/15793570/125094482-49f3c100-e0a1-11eb-8aeb-8ebff412f5f5.JPG)
+
+###Frosty
+![IMG_2025](https://user-images.githubusercontent.com/15793570/125094355-30527980-e0a1-11eb-8d2e-43f8cd9b945d.JPG)
