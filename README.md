@@ -3,7 +3,7 @@ Welcome to my personal GitHub.io page! This is where I will be displaying my wor
 
 In the future, after the course is finished, I plan on migrating my works into their own tab on my page.
 This will give me room to highlight works that may not be directly related to this course.
-<br/>
+<br/><br/>
 
 ## About me
 My name is Benjamin Aulenbach and I am headed into my senior year at Lehigh University. I have a wide variety of interests both related and unreleated to academics.
@@ -17,13 +17,14 @@ I also have interests in photography and videography. I created a website [Aulen
 ### Blizzard ![IMG_1628](https://user-images.githubusercontent.com/15793570/125094482-49f3c100-e0a1-11eb-8aeb-8ebff412f5f5.JPG)
 
 ### Frosty ![IMG_2025](https://user-images.githubusercontent.com/15793570/125094355-30527980-e0a1-11eb-8d2e-43f8cd9b945d.JPG)
+<br/><br/>
 
 ## Projects
 <aside style="background-color:#FFFFFF">
   <iframe title="Lehigh Enrollment 2020" aria-label="chart" id="datawrapper-chart-gjAhs" src="https://datawrapper.dwcdn.net/gjAhs/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="306"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
   </script>
 </aside>
-<br/><br/>
+<br/>
 <aside style="background-color:#FFFFFF">
   <iframe title="Lehigh Enrollment 2020" aria-label="Bar Chart" id="datawrapper-chart-VDeBM" src="https://datawrapper.dwcdn.net/VDeBM/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="294"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
   </script>
