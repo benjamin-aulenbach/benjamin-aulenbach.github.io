@@ -15,6 +15,7 @@ I also have interests in photography and videography. I created a website [Aulen
 
 ### Blizzard ![IMG_1628](https://user-images.githubusercontent.com/15793570/125094482-49f3c100-e0a1-11eb-8aeb-8ebff412f5f5.JPG)
 ### Frosty ![IMG_2025](https://user-images.githubusercontent.com/15793570/125094355-30527980-e0a1-11eb-8d2e-43f8cd9b945d.JPG)
+<br/>
 
 ## Projects
 <aside style="background-color:#FFFFFF">
