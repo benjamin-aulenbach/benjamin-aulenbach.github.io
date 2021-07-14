@@ -22,5 +22,7 @@ I also have interests in photography and videography. I created a website [Aulen
 ## Projects
 <aside style="background-color:#FFFFFF"> 
 <iframe title="Lehigh Enrollment 2020" aria-label="chart" id="datawrapper-chart-gjAhs" src="https://datawrapper.dwcdn.net/gjAhs/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="306"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> 
+</script>
+<iframe title="Lehigh Enrollment 2020" aria-label="Bar Chart" id="datawrapper-chart-VDeBM" src="https://datawrapper.dwcdn.net/VDeBM/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="294"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 </aside>
