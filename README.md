@@ -38,7 +38,7 @@ I also have interests in photography and videography. I created a website [Aulen
  <br/>
 
 <aside style="background-color:#FFFFFF">
-  <iframe title="Historical Crytpocurrency Data (2013-2018)" aria-label="Interactive line chart" id="datawrapper-chart-ehPik" src="https://datawrapper.dwcdn.net/ehPik/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="425"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+  <iframe title="Historical Crytpocurrency Data (2013-2018)" aria-label="Interactive line chart" id="datawrapper-chart-ehPik" src="https://datawrapper.dwcdn.net/ehPik/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="425"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
   </script>
 </aside>
 <br/>
