@@ -42,8 +42,12 @@ I also have interests in photography and videography. I created a website [Aulen
   </script>
 </aside>
 <br/>
-
-<iframe src="https://arcg.is/1X0enD2" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+  
+<aside style="background-color:#FFFFFF">
+<div style="text-align:center;">
+ <iframe src="https://arcg.is/1X0enD2" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+</aside>
 <br/>
 
 <aside style="background-color:#FFFFFF">
