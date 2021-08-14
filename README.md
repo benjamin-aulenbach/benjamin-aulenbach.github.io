@@ -1,3 +1,4 @@
+![IMG_6935](https://user-images.githubusercontent.com/15793570/129460086-b8c10ff6-f5b7-4c3d-8b99-78acdefbac63.jpeg)
 # Ben's Bio
 Welcome to my personal GitHub.io page! This is where I will be displaying my works for COMM 165: Data Storytelling.
 
