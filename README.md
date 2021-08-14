@@ -18,7 +18,12 @@ I also have interests in photography and videography. I created a website [Aulen
 <br/>
 
 ## Portfolio
+*Over my time taking COMM 165: Data Storytelling, I was able to learn various tools such as Datawrapper, ParseHub, ThingLink, and more. I utilized the Twitter API to collect Tweets and respective metadata to create a heatmap of Bitcoin related tweets. After a couple starter assignments, where I utilized Lehigh University's enrollment data, I began to focus my efforts on my current pashion: cryptocurrency. I set a goal for myself to try and understand the rates of Bitcoin adoption across the world. More specifically, I wanted to determine the differences betweeen race, economic status, education level, and a variety of other factors. Finding relevant datasets surrounding these ideas was quite challenging and I was unsuccessful in these pursuits. While I was unable to accomplish my lofty project goal due to time constraints (I took this course in six weeks while working a full-time internship), I hope to find time in the future to explore related datasets surrounding these important issues.*
 
+### Projects
+
+#### Lehigh Enrollment 2020
+*This interactive chart was created utilizing Datawrapper, an online charting tool. If you hover over various slices of the pie chart, the respective label will be highlighted on the other pies and legend to the right. By analyzing this chart, it can be determined that females tend to have higher rates of Arts and Science majors, while males tend to have higher rates of Engineering majors. In the "Total" pie, it can be seen that Arts and Science majors are more common overall, even though Lehigh was originally and engineering institution.*
 <aside style="background-color:#FFFFFF">
   <iframe title="Lehigh Enrollment 2020" aria-label="chart" id="datawrapper-chart-gjAhs" src="https://datawrapper.dwcdn.net/gjAhs/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="306"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
   </script>
