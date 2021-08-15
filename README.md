@@ -60,7 +60,7 @@ I also have interests in photography and videography. I created a website [Aulen
 *This heat map shows the rates of tweets with the hashtag "#Bitcoin" in and around Pennsylvania. As an interactive map, the audience can zoom in and see a further breakdown by location. Notice the large amount of tweets coming from major metropolitan areas such as Philadelphia and New York City.*
 <aside style="background-color:#FFFFFF">
 <div style="text-align:center;">
- <iframe src="https://arcg.is/1X0enD2" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+ <iframe src="https://storymaps.arcgis.com/stories/a16dfecdb2b84b23a4131807f5c69742" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 </div>
 </aside>
 <br/>
